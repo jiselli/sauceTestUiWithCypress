@@ -1,0 +1,19 @@
+{
+  "name": "serverestui",
+  "version": "1.0.0",
+  "description": "testes automatizados de interface grafica",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "test",
+    "UI",
+    "cypress"
+  ],
+  "author": "Jiselli de Luca",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.11.0"
+  }
+}
